@@ -1,6 +1,5 @@
-*.exe
-*.out
-*.bin
 
-*.log
-*.tmp
+*
+!*.c
+!*.h
+!README.md
