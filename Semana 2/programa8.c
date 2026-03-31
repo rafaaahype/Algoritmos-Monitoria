@@ -10,7 +10,7 @@ int main() {
 
     	float consumo = leituraAnterior;
     	float valorConsumo = consumo * PrecoKWH;
-	float icms = valorConsumo * ICMS;
+		float icms = valorConsumo * ICMS;
     	float total = valorConsumo + icms + TaxaIluminacao;
 
     	printf("Consumo: %.2fKWh\n", consumo);
