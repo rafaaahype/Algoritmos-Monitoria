@@ -1,3 +1,9 @@
+/*
+Escreva um programa que leia o número de gols marcados pelo time da casa e o número de
+gols marcado pelo time visitante e verifique se o jogo foi vencido pelo time da casa, pelo
+time visitante ou se terminou empatado.
+*/
+
 #include <stdio.h>
 
 int main(){

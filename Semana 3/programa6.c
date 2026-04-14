@@ -1,3 +1,8 @@
+/*
+Escreva um programa que leia três números inteiros distintos e identifique o maior número
+informado.
+*/
+
 #include <stdio.h>
 
 int main(){
