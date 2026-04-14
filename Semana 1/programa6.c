@@ -1,3 +1,7 @@
+/*
+Escreva um programa que leia o valor do seno de um ângulo e calcule o valor absoluto do
+cosseno.
+*/
 #include <stdio.h>
 #include <math.h>
 
