@@ -1,3 +1,9 @@
+/*
+Escreva um programa que leia os valores das coordenadas X e Y e dois pontos P e Q e
+determine a distância entre estes dois pontos. A distância entre dois pontos pode ser
+determinada através da distância euclidiana.
+*/
+
 #include <stdio.h>
 #include <math.h>
 int main(){
