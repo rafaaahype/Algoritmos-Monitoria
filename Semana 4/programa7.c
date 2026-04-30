@@ -6,7 +6,7 @@
 #include <string.h>
 
 int main() {
-    char verbo[50];
+    {char verbo[50];
     char radical[50];
     int tamanho;
 
@@ -57,5 +57,5 @@ int main() {
         printf("Erro: O verbo digitado não termina em 'ar', 'er' ou 'ir'.\n");
     }
 
-    return 0;
+    return 0;}
 }
