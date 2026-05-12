@@ -1,3 +1,8 @@
+/*
+Escreva um programa que leia um número inteiro positivo e calcule a soma de todos os seus
+algarismos.
+*/
+
 #include <stdio.h>
 
 int main(void){

@@ -1,3 +1,8 @@
+/*
+Escreva um programa que leia um número inteiro positivo N e informe todos os termos da
+série de Fibonacci que são menores ou iguais a N.
+*/
+
 #include <stdio.h>
 
 int main(void){
