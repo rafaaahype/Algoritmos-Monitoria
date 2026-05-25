@@ -1,5 +1,6 @@
 /*
- *
+Escreva um programa que leia duas matrizes quadradas de ordem 3 de números reais e
+calcule a soma dessas duas matrizes.
 */
 #include <stdio.h>
 #define ORDEM 3
