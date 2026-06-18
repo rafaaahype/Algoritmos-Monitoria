@@ -4,7 +4,7 @@
 */
 #include <stdio.h>
 
-int main (){
+int main(){
     int numero;
     scanf("%d",&numero);
     int milhar,centena,dezena,unidade;
